@@ -1,0 +1,12 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<script/>
+<modelVersion>4.0.0</modelVersion>
+<groupId>com.oracle</groupId>
+<artifactId>ojdbc14</artifactId>
+<version>10.2.0.1.0</version>
+<name>Oracle JDBC Driver</name>
+<organization>
+	<name>Oracle Corporation</name>
+	<url>http://www.oracle.com</url>
+</organization>
+</project>
